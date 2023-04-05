@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wayne Ting</h1>
-<h3 align="center">A fullstack developer</h3>
+<h3 align="center">A python developer</h3>
 
 - 📫 How to reach me **wayneting.wc@gmail.com**
 
