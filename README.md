@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wayne Ting</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on **Algorthium visizlier**
+- 🔭 I’m currently working on **Algorithm visualizer**
 
 - 📫 How to reach me **wayneting.wc@gmail.com**
 
