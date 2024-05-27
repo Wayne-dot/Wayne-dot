@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wayne Ting</h1>
-<h3 align="center">A Javascript and Python developer</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **Algorithm visualizer**
 
